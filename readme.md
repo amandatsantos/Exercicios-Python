@@ -13,10 +13,10 @@
 
 # Pastas com exercicios
 <ul> 
-<li> <a href= ""> Chute o  numero</a></li>
-<li> <a href= "">Jogo - forca </a> </li>
-<li> <a href= "">Pedra, Papel e Tesoura </a></li>
-<li> <a href= "">conversor de moeda</a></li>
+<li> <a href= "https://github.com/amandatsantos/Exercicios-Python/tree/main/chute_o_numer"> Chute o  numero</a></li>
+<li> <a href= "https://github.com/amandatsantos/Exercicios-Python/tree/main/jogo_forca">Jogo - forca </a> </li>
+<li> <a href= "https://github.com/amandatsantos/Exercicios-Python/tree/main/pedra_papel_tesoura">Pedra, Papel e Tesoura </a></li>
+<li> <a href= "https://github.com/amandatsantos/Exercicios-Python/tree/main/conversor">conversor de moeda</a></li>
 <li> </li>
 <li> </li>
 <li> </li>
