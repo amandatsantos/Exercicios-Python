@@ -3,15 +3,20 @@
 
 <p> exercicios-python, é para quem deseja desafios simples para fortalecer a base em python ou desafios um pouco mais elaborados para ampliar o conhecimento dentro de Python.  </p>
 
-<p> a ideia deste repositorio é criar desafios que deixem as pessoas mais entusiamadas em codar python, fique a vontade para forkar e contribuir</p>
+<p> a ideia deste repositorio é ter desafios -> "joguinhos" para aprimorar o conhecimento de quem ta começando em python de forma mais dinâmica, fique a vontade para dar fork e contribuir</p>
+
+<p> dentro das pastas estarão o readme com a ideia para fazer o desafio junto com algumas "exigencias" e sugestões, além do script que pode ser pego como modelo pra ajudar na hora de codar </p>
 
 # Indice
 
+...
+
+# Pastas com exercicios
 <ul> 
-<li> Chute o  numero</li>
-<li> Jogo - forca </li>
-<li> Pedra, Papel e Tesoura </li>
-<li> conversor python</li>
+<li> <a href= ""> Chute o  numero</a></li>
+<li> <a href= "">Jogo - forca </a> </li>
+<li> <a href= "">Pedra, Papel e Tesoura </a></li>
+<li> <a href= "">conversor de moeda</a></li>
 <li> </li>
 <li> </li>
 <li> </li>
@@ -22,9 +27,9 @@
 <li> </li>
 </ul>
 
-# referencias
+# Referencias
 
-<p> aqui ficarão os links de onde podem encontrar a maioria do desafios aqui propostos, alem de outras listas que terão mais outros excercicios </p>
+<p> aqui ficará os links de onde se pode encontrar a maioria do desafios aqui propostos, alem de outras listas que terão  outros excercicios </p>
 
 ## canais do YouTube :
 <ul> 

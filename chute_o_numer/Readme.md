@@ -23,4 +23,4 @@ próximo o valor digitado foi ao valor que foi realmente gerado pelo  programa. 
 
 ** pode estilizar o exercicio pra ficar bonito terminal, ou usar um GUI  :) 
 
-# referencias 
+
